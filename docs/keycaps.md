@@ -102,7 +102,7 @@ POM (Polyoxymethylene) — Полиформальдегид/полиоксим�
 
 ### DSS
 *Набор SP Dolch DSS (источник – [geekhack](https://geekhack.org/index.php?topic=93584)):*
-![Dolch DSS](/images/keycaps_dss.jpg)
+![DSS Dolch](/images/keycaps_dss.JPG)
 
 Stepped-аналог DSA-профиля, практически идентичны Cherry по высоте.
 
