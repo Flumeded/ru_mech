@@ -63,7 +63,7 @@ Drevo, Obins, Ikbc, Plum.
 #### TKL
 
 *90 Клавиш. Из раскладки убран цифровой блок.*
-![CoolerMaster Masterkey Pro S](images/Layout_TKL.jpg)  
+![CoolerMaster Masterkey Pro S](images/layout_TKL.jpg)  
 #### 75%
 
 75 Клавиш. Убраны некоторые клавиши из навигационного блока
