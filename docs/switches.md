@@ -30,34 +30,7 @@
 * Самобытные
   * IBM Buckling spring
 
-**A basic sample2:**
-  ```html
-    /*vue*/
-    <template>
-      <data-tables :data='data'
-        :pagination-props='{ pageSizes: [5, 10, 15] }'>
-        <el-table-column v-for="title in titles"
-          :prop="title.prop"
-          :label="title.label"
-          :key="title.label">
-        </el-table-column>
-      </data-tables>
-    </template>
-
-    <script>
-    export default {
-      data() {
-        return {
-          data: [...new Array(30)].reduce((previous) => {
-            return previous.concat(data)
-          }, []),
-          titles,
-        }
-      }
-    }
-    </script>
-  ```
-
+**A basic sample3:**
 
   ```html
   /*vue*/
