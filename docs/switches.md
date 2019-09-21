@@ -30,7 +30,7 @@
 * Самобытные
   * IBM Buckling spring
 
-**A basic sample1:**
+**A basic sample2:**
   ```html
     /*vue*/
     <template>
