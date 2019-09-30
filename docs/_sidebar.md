@@ -2,9 +2,10 @@
 
 * [Home](README.md)
 * [FAQ](FAQ.md)
+* [Глоссарий](glossary.md)
+* [Переключатели](switches.md)
 * [Кейкапы](keycaps.md)
+* [Cтабилизаторы](stabs.md)
 * [Слепая печать](touchtype.md)
 * [Программирование](QMK.md)
-* [Cтабилизаторы](stabs.md)
 * [Где купить](shops.md)
-* [Глоссарий](glossary.md)
