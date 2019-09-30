@@ -13,7 +13,7 @@
 **По внутреннему устройству и форм-фактору:**
 * Cherry MX
   * Классические полноразмерные (оригинальные Cherry MX и копии)
-  * Компактные (начали разрабатываться в одно время, поэтому все **(?)** являются оригинальными разработками)
+  * Компактные (начали разрабатываться примерно в одно время, поэтому все **(?)** являются оригинальными разработками)
 * Alps (оригинальные и копии)
 * Мембранные
   * Плёночные (обычные мембранные, ножничные и "бабочка" Apple)
@@ -29,33 +29,3 @@
 * Topre - емкостные, гибрид мембраны и дискретного переключателя
 * Самобытные
   * IBM Buckling spring
-
-
-  # Hello world
-  * try the buttons
-  * try to sort the data
-  * try to create some data, and then page left and right
-  * try to enter something in the input box to filter the data
-
-  ```html
-  /*vue*/
-  <template>
-     <data-tables :data="data" :pagination-props="{ pageSizes: [5, 10, 15] }">
-       <el-table-column v-for="title in titles" :prop="title.prop" :label="title.label" :key="title.label">
-       </el-table-column>
-     </data-tables>
-   </template>
-
-   <script>
-   export default {
-     data() {
-       return {
-         data: [...new Array(30)].reduce((previous) => {
-           return previous.concat(data)
-         }, []),
-         titles,
-       }
-     }
-   }
-   </script>
-  ```
