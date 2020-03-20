@@ -1,7 +1,5 @@
 # Где закупаться?
 
-## First off, welcome to the world of keyboards. There are two things you will discover quite shortly about keyboards and keyboarding related accessories: first, they are a moneypit. Your money? all gone. Second, they are awesome; you will be poor but happy.
-
 ## Один небольшой, но важный момент:  
 Добро пожаловать в мир клавиатур. Есть две вещи, которые вы достаточно скоро для себя откроете о них и связанных с ними вещах: во-первых, это дорого. Клавиатура редко будет стоить дешевле $300, а комплект кейкапов с групбая обычно обходится около $150. Во-вторых, это потрясающе: вы будете без денег, но счастливым.
 
